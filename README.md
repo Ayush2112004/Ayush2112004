@@ -2,18 +2,31 @@
   <img src="github-profile.gif" alt="Banner GIF" width="100%">
 </p>
 
-<h2 align="center">Full Stack Developer | MERN Stack Enthusiast</h2>
-<h3 align="center">React • Node.js • MongoDB • DSA • Machine Learning</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Ayush+Rathi;Full+Stack+Developer;MERN+Stack+Enthusiast;Machine+Learning+Explorer;Problem+Solver" />
+</p>
+
+<p align="center">
+  Building scalable web applications and solving real-world problems through code.
+</p>
 
 ---
+## 💬 About Me
 
-### 💬 About Me
+I'm Ayush Rathi, a Computer Science undergraduate at VIT Bhopal with a strong interest in Full Stack Development, Problem Solving, and Machine Learning.
 
-I am a Computer Science undergraduate at VIT Bhopal passionate about software development, problem solving, and building impactful digital solutions.
+I specialize in building modern web applications using the MERN stack and enjoy creating solutions that combine clean user experiences with scalable backend systems. Alongside web development, I actively explore Machine Learning and Computer Vision technologies through hands-on projects.
 
-I specialize in developing full-stack web applications using the MERN Stack and enjoy solving real-world problems through scalable software systems. Alongside web development, I actively explore Machine Learning and Computer Vision technologies to create intelligent applications.
+My technical journey includes:
 
-I have solved 300+ coding problems across LeetCode and GeeksforGeeks and continuously work on improving my technical and problem-solving abilities.
+* 🚀 Building full-stack MERN applications
+* 🧠 Developing Machine Learning and Computer Vision projects
+* 💡 Solving 300+ DSA problems on coding platforms
+* ☁️ Exploring Cloud Computing and AWS technologies
+* 📚 Continuously learning modern software engineering practices
+
+I'm always excited to learn new technologies, collaborate on impactful projects, and grow as a software engineer.
+
 
 ---
 
@@ -147,7 +160,7 @@ I have solved 300+ coding problems across LeetCode and GeeksforGeeks and continu
 <div align="center">
 
 <a href="https://leetcode.com/u/ayushrathi2004/" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/ayushrathi2004?theme=dark&border=0&radius=14&ext=contest&bgColor=0d1117&text=ffffff" width="420" />
+  <img src="https://leetcard.jacoblin.cool/ayushrathi2004?theme=dark&border=0&radius=14" width="420" />
 </a>
 
 </div>
@@ -164,13 +177,14 @@ I have solved 300+ coding problems across LeetCode and GeeksforGeeks and continu
 
 ![300+ DSA Problems](https://img.shields.io/badge/DSA-300%2B_Problems_Solved-brightgreen?style=for-the-badge)
 
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush2112004&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 <div align="center">
 
