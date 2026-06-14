@@ -169,13 +169,23 @@ I'm always excited to learn new technologies, collaborate on impactful projects,
 
 ## 🎓 Certifications & Achievements
 
-![AWS Technical Essentials](https://img.shields.io/badge/AWS-Technical_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+<div align="center">
 
-![Bits and Bytes of Computer Networking](https://img.shields.io/badge/Coursera-Bits_&_Bytes_Of_Computer_Networking-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+<img src="https://img.shields.io/badge/AWS-Technical_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-![AZ-900](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<br/>
 
-![300+ DSA Problems](https://img.shields.io/badge/DSA-300%2B_Problems_Solved-brightgreen?style=for-the-badge)
+<img src="https://img.shields.io/badge/Coursera-Bits_And_Bytes_Of_Computer_Networking-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/DSA-300%2B_Problems_Solved-brightgreen?style=for-the-badge" />
+
+</div>
 
 ---
 
