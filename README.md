@@ -39,7 +39,6 @@ I have solved 300+ coding problems across LeetCode and GeeksforGeeks and continu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
----
 
 ## 🌐 Frontend Development
 
@@ -53,7 +52,6 @@ I have solved 300+ coding problems across LeetCode and GeeksforGeeks and continu
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
----
 
 ## ⚙️ Backend Development
 
@@ -63,14 +61,12 @@ I have solved 300+ coding problems across LeetCode and GeeksforGeeks and continu
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 ## 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 ## 🤖 Machine Learning
 
@@ -78,8 +74,6 @@ I have solved 300+ coding problems across LeetCode and GeeksforGeeks and continu
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
----
 
 ## ☁️ AWS Cloud Services
 
@@ -103,7 +97,6 @@ I have solved 300+ coding problems across LeetCode and GeeksforGeeks and continu
 ![EFS](https://img.shields.io/badge/Amazon_EFS-6AA84F?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS_Backup](https://img.shields.io/badge/AWS_Backup-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
 
 ## 💻 Tools & Platforms
 
