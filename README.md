@@ -146,40 +146,23 @@ I have solved 300+ coding problems across LeetCode and GeeksforGeeks and continu
 
 <div align="center">
 
-<a href="https://leetcode.com">
-  <img src="https://leetcard.jacoblin.cool/ayush2112004?theme=dark&border=0&radius=14&ext=badge&bgColor=0d1117&text=ffffff" width="420" />
+<a href="https://leetcode.com/u/ayushrathi2004/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/ayushrathi2004?theme=dark&border=0&radius=14&ext=contest&bgColor=0d1117&text=ffffff" width="420" />
 </a>
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🎓 Certifications & Achievements
 
-- Solved 300+ Problems on LeetCode & GeeksforGeeks
-- Strong Problem Solving & DSA Skills
-- Built Multiple Full Stack Projects
-- Developed Machine Learning Applications
-- Active Open Source Learner
+![AWS Technical Essentials](https://img.shields.io/badge/AWS-Technical_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
+![Bits and Bytes of Computer Networking](https://img.shields.io/badge/Coursera-Bits_&_Bytes_Of_Computer_Networking-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 
-## 🎓 Certifications
+![AZ-900](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-[![AWS Technical Essentials](https://img.shields.io/badge/AWS-Technical_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]()
-
-[![Coursera](https://img.shields.io/badge/Coursera-Bits_And_Bytes_Of_Computer_Networking-0056D2?style=for-the-badge&logo=coursera&logoColor=white)]()
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush2112004&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2112004&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
+![300+ DSA Problems](https://img.shields.io/badge/DSA-300%2B_Problems_Solved-brightgreen?style=for-the-badge)
 
 ## 🔥 GitHub Streak
 
@@ -191,7 +174,6 @@ I have solved 300+ coding problems across LeetCode and GeeksforGeeks and continu
 
 <div align="center">
 
-### ⭐ Turning Ideas Into Scalable Software Solutions
+### ⚡ Code • Create • Innovate • Repeat
 
 </div>
-```
